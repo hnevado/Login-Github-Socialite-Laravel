@@ -9,4 +9,3 @@
 <p><img src="https://github.com/hnevado/Login-Github-Socialite-Laravel/blob/master/public/img/socialite2.png"></p>
 <p><img src="https://github.com/hnevado/Login-Github-Socialite-Laravel/blob/master/public/img/socialite3.png"></p>
 <p><img src="https://github.com/hnevado/Login-Github-Socialite-Laravel/blob/master/public/img/socialite4.png"></p>
-<p><img src="https://github.com/hnevado/Login-Github-Socialite-Laravel/blob/master/public/img/socialite5.png"></p>
